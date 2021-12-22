@@ -5,9 +5,9 @@ Write a Java program to perform encryption and decryption using the following al
 
 a. Ceaser Cipher
 
-b.Substitution Cipher
+b. Substitution Cipher
 
-c.Hill Cipher
+c. Hill Cipher
 
 ## Output
 ### Ceaser Cipher Output:
