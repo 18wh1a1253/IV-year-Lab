@@ -4,4 +4,4 @@
 a C/JAVA program to implement the Blowfish algorithm logic.
 
 ## Output
-![output](program5_Output.png)
+![output](Program5_Output.png)
