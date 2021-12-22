@@ -1,6 +1,6 @@
 # Program 3
 
-## Aim of the Experiment
+## Aim of the program
 Write a Java program to perform encryption and decryption using the following algorithms 
 
 a. Ceaser Cipher
