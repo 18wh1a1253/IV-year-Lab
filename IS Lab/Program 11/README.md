@@ -4,4 +4,4 @@
 To Calculate the message digest of a text using the MD5 algorithm in JAVA.
 
 ## Output
-![output](program11_Output.png)
+![output](Program11_Output.png)
